@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\projects\AndroidProjects\LinkLineTest\AndroidProjects.iml" filepath="D:\projects\AndroidProjects\LinkLineTest\AndroidProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkLineTest.iml" filepath="$PROJECT_DIR$/LinkLineTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
